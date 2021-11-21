@@ -3,5 +3,5 @@
 		PLUG BASE | ESX
 	</h1>
 	<p align="center">
-		<img width="420" height="237" src="docs/banner.png">
+		<img width="439" height="111" src="docs/banner.png">
 	</p>
